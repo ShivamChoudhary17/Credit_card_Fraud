@@ -1,10 +1,10 @@
 # Credit_card_Fraud
 
 ### Table Of Content:
-. DataSet
-. Details
-. Machine Learning-Based Approaches
-. Score
+- DataSet
+- Details
+- Machine Learning-Based Approaches
+- Score
 
 
 > - _______________________________________________________________________________________________________________________________________________________________________________
