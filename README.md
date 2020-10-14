@@ -51,3 +51,12 @@ Partitions are created by randomly selecting a feature and then randomly creatin
 > Density-Based Anomaly Detection (Local Outlier Factor)Algorithm
 
 > Support Vector Machine Anomaly Detection Algorithm
+
+> - ### Score
+- Isolation Forest: 657
+  Accuracy Score :
+  0.9976931746761842
+  
+- Local Outlier Factor: 980
+  Accuracy Score :
+  0.9965590733373828
