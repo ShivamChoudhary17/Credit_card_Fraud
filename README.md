@@ -47,5 +47,6 @@ In this jupyter notebook we are going to take the credit card fraud detection as
 > Isolation Forest Anomaly Detection Algorithm
 Isolation forest detects anomalies by randomly partitioning the domain space. Yeah, you’re heard me right- It works similar to Decision trees algorithm, where we start with a root node and keep on partitioning the space. In Isolation forest we partition randomly, unlike Decision trees where the partition is based on Information gain.
 Partitions are created by randomly selecting a feature and then randomly creating a split value between the maximum and the minimum value of the feature. We keep on creating the partitions until we isolate all the points(in most cases we also set a limit on number of partitions/height of the tree).
+
 > Density-Based Anomaly Detection (Local Outlier Factor)Algorithm
 > Support Vector Machine Anomaly Detection Algorithm
